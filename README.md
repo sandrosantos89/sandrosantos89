@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sandrosantos89
+- 👀 I’m interested in development
+- 🌱 I have already learned HTML, CSS, JavaScript, ReactJS, Bootstrap, NodeJS, jQuery, Electron, Firebase, MongoDB.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate in passing on my knowledge
+- 📫 How to reach me by my linkedin
