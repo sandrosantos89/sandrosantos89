@@ -3,7 +3,7 @@
                 <li style="color: red">👋 Olá bem vindo ao meu Git Hub!!</li>
                  <li>👀 Estou em transição de carreira para a área de Desenvolvimento de Software</li>
                  <li>⌨ Sou estudante de Análise e desenvolvimento de sistemas</li>
-                 <li>📟 Mas hoje meu foco principal é a linguagem Java com Spring</li>
+                 <li>📟 Meu foco principal é a linguagem Java com Spring</li>
                  <li>🔗 Clique na imagem para acessar meu Linkedin: <a href="https://www.linkedin.com/in/sandrofernandodossantos" target="_blank"><img heigth = "20" width = "20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a></li>
           </ul>
 <div/>
