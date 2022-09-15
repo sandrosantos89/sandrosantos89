@@ -1,5 +1,5 @@
 ## - 👋 Olá bem vindo ao meu Git Hub!!
-- 👀 Estou em trasição de carreira para a área de Desenvolvimento de Software
+- 👀 Estou em transição de carreira para a área de Desenvolvimento de Software
 - ⌨ Sou estudante de Análise e desenvolvimento de sistemas
 - 🌱 Já possuo e desenvolvo em HTML, CSS, JavaScript, ReactJS, Bootstrap, NodeJS, jQuery, Electron, Firebase, MongoDB.
 - 📟 Mas hoje meu foco principal é a linguagem Java com Spring
