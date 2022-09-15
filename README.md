@@ -31,6 +31,6 @@
 ![Snake animation](https://github.com/sandrosantos89/sandrosantos89/blob/output/github-contribution-grid-snake.svg)
 ##
 <div align="center">
-<h2 aling = "center"> Obrigado pela visita !!! 😀 </h2>
-<p aling = "center">   <img alingn="center" src="https://profile-counter.glitch.me/sandrosantos89/count.svg" /></p>
+         <h2 aling = "center"> Obrigado pela visita !!! 😀 </h2>
+         <p aling = "center"><img alingn="center" src="https://profile-counter.glitch.me/sandrosantos89/count.svg" /></p>
 </div>
