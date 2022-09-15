@@ -1,4 +1,4 @@
-<div style="font-family: Times New Roman" style="color: red">
+<div>
          <ul>
                 <li style="color: red">👋 Olá bem vindo ao meu Git Hub!!</li>
                  <li>👀 Estou em transição de carreira para a área de Desenvolvimento de Software</li>
