@@ -3,7 +3,7 @@
 - ⌨ Sou estudante de Análise e desenvolvimento de sistemas
 - 🌱 Já possuo e desenvolvo em HTML, CSS, JavaScript, ReactJS, Bootstrap, NodeJS, jQuery, Electron, Firebase, MongoDB.
 - 📟 Mas hoje meu foco principal é a linguagem Java com Spring
-- 🔗 How to reach me by my linkedin: <a href="https://www.linkedin.com/in/sandrofernandodossantos"><img href="https://www.linkedin.com/in/sandrofernandodossantos" heigth = "20" width = "20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+- 🔗 How to reach me by my linkedin: <a href="https://www.linkedin.com/in/sandrofernandodossantos" target=""/_blank><img href="https://www.linkedin.com/in/sandrofernandodossantos" heigth = "20" width = "20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
         
 
 
